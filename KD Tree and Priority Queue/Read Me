@@ -1,0 +1,9 @@
+READ ME
+These projects are pieces of a larger scale project in CS61B, BearMaps, that simulates a a scrollable map that will find the fastest route to a given destination.
+
+KDTree.java is an implementation of a kth dimensional tree, that can find the nearest Node on a tree to a given point.  
+It uses "pruning" to maximize efficiency and guarantee Logartihmic runtime.
+
+ArrayHeapMinPQ implements an classic Priority Queue Data Structure that can take in values and store them within an ArrayList in the correct order according to
+their priority.  Using "Sink" and "Swim" Methods the implementation is quickly able to properly sort the Arraylists values when a new value is added.
+
