@@ -1,0 +1,3 @@
+-Artificial Intelligence capable of solving arbitrary traversal problems like word ladders, driving directions, puzzles  
+-Finds optimal route from start to goal, similar to dijkstra’s algorithm
+-Relies on hashmaps and a priority que to ensure quick processing speed
